@@ -2,7 +2,7 @@
     {
         "titre": "Icone",
         "description": "Site de l'entreprise Digital Consultant",
-        "lien": "https://guilhemgabrielli.github.io/portfolio/sites/icone/",
+        "lien": "sites/icone/",
         "image": "images/site_icone.jpg",
         "altImage": "Visuel du site de l'entreprise Digital Consultant"
     },
