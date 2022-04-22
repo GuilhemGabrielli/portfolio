@@ -1,16 +1,16 @@
 [
     {
         "titre": "Icone",
-        "description": "Site de l'entreprise Digital Consultant",
+        "description": "Site de l'équipe Icone dans le cadre de notre formation pour répondre aux besoins de clients externes",
         "lien": "sites/icone/",
         "image": "images/site_icone.jpg",
-        "altImage": "Visuel du site de l'entreprise Digital Consultant"
+        "altImage": "Visuel de l'équipe Icone"
     }, 
     {
         "titre": "Expertise",
-        "description": "Site de notre projet d'expertise",
+        "description": "Site de notre projet Eclerini visant à montrer les différences entre les écoles Américaines et Françaises afin de faire disparaitre les préjugés existant.",
         "lien": "https://eclerini.github.io/Eclerini/",
-        "image": "images/site_expertise.jpg",
+        "image": "images/site_eclerini.jpg",
         "altImage": "Visuel du site de notre projet d'expertise"
     },
     {
