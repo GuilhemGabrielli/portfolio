@@ -5,6 +5,13 @@
         "lien": "sites/icone/",
         "image": "images/site_icone.jpg",
         "altImage": "Visuel du site de l'entreprise Digital Consultant"
+    }, 
+    {
+        "titre": "Expertise",
+        "description": "Site de notre projet d'expertise",
+        "lien": "https://eclerini.github.io/Eclerini/",
+        "image": "images/site_expertise.jpg",
+        "altImage": "Visuel du site de notre projet d'expertise"
     },
     {
         "titre": "Digital Consultant",
