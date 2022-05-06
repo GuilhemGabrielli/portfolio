@@ -1,0 +1,59 @@
+[
+    {
+        "URLImage": "images/skills/html.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/css.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/js.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/json.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/bootstrap.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/python.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/mysql.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/cmd.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/powershell.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/vscode.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/spyder.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/figma.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/vue.png",
+        "altImage": "Logo HTML"
+    },
+    {
+        "URLImage": "images/skills/angular.png",
+        "altImage": "Logo HTML"
+    }
+    
+]

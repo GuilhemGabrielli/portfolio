@@ -95,8 +95,14 @@ body {
     color: white;
     margin-left: 5%;
     margin-right: 5%;
+    padding: 1%;
     
 }
+
+.img-skills {
+    height: 150px;
+}
+
 
 .skill {
     width: 25%;
