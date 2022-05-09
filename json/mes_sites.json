@@ -26,12 +26,5 @@
         "lien": "html/e-commerce.html",
         "image": "images/site_e-commerce.jpg",
         "altImage": "Visuel du site d'e-commerce"
-    },
-    {
-        "titre": "Alan TURING",
-        "description": "Site web contenant une frise chronologique sur la vie d'Alan Turing, le père de l'informatique",
-        "lien": "html/alan-turing.html",
-        "image": "images/site_alan_turing.jpg",
-        "altImage": "Visuel du site concernant Alan TURING"
     }
 ]
