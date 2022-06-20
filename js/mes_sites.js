@@ -1,16 +1,16 @@
 var mesSites = []
 
-var requestURL = 'https://raw.githubusercontent.com/GuilhemGabrielli/portfolio/main/json/mes_sites.json';
+var requestURLSites = 'https://raw.githubusercontent.com/GuilhemGabrielli/portfolio/main/json/mes_sites.json';
 
-var request = new XMLHttpRequest();
+var requestSites = new XMLHttpRequest();
 
-request.open('GET', requestURL);
+requestSites.open('GET', requestURLSites);
 
-request.responseType = 'json';
-request.send();
+requestSites.responseType = 'json';
+requestSites.send();
 
-request.onload = function() {
-    mesSites = request.response;
+requestSites.onload = function() {
+    mesSites = requestSites.response;
     loadSites();
 }
 

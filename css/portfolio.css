@@ -65,6 +65,7 @@ body {
 .titre-partie {
     text-align: center;
     font-size: 2em;
+    padding-top: 15px;
 }
 
 #accueil-name {
