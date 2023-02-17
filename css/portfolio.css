@@ -97,12 +97,16 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     padding: 1%;
-    
+    overflow: hidden;
+    white-space: nowrap;
 }
 
+
 .img-skills {
+    display: inline-block;
     height: 150px;
 }
+
 
 
 .skill {
@@ -119,6 +123,34 @@ body {
     font-size: 1.1em;
     margin-top: 1%;
 }
+
+#marquee-skills {
+    animation: marquee 10s alternate infinite;
+}
+/* #marquee-skills::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    height: 100%;
+    white-space: nowrap;
+  } */
+  
+  /* img {
+    animation: marquee 20s linear infinite;
+  } */
+  
+  @keyframes marquee {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+  
 
 #works {
     display: flex;

@@ -27,6 +27,7 @@ requestSkills.send();
 
 requestSkills.onload = function() {
     mesSkills = requestSkills.response;
+    console.log(mesSkills);
     loadSkills();
 }
 
@@ -39,6 +40,5 @@ function loadSkills() {
         newSkill.alt = mesSkills[i]["altImage"]
         newSkill.className = "img-skills"
         marqueeSkills.appendChild(newSkill)
-
     }
 }
