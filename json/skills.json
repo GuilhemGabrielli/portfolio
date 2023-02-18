@@ -1,9 +1,45 @@
 [
     {
+        "URLImage": "images/skills/vue.png",
+        "altImage": "Logo VUEJS"
+    },
+    {
+        "URLImage": "images/skills/angular.png",
+        "altImage": "Logo ANGULARJS"
+    },
+    {
+        "URLImage": "images/skills/laravel.png",
+        "altImage": "Logo LARAVEL"
+    },
+    {
+        "URLImage": "images/skills/RF.png",
+        "altImage": "Logo Robot Framework"
+    },
+    {
+        "URLImage": "images/skills/python.png",
+        "altImage": "Logo Python"
+    },
+    {
+        "URLImage": "images/skills/java.png",
+        "altImage": "Logo Java"
+    },
+    {
+        "URLImage": "images/skills/python.png",
+        "altImage": "Logo Python"
+    },
+    {
+        "URLImage": "images/skills/flutter.png",
+        "altImage": "Logo Flutter"
+    },
+    {
+        "URLImage": "images/skills/swift.png",
+        "altImage": "Logo Swift"
+    },
+    {
         "URLImage": "images/skills/html.png",
         "altImage": "Logo HTML"
     },
-    {
+    {      
         "URLImage": "images/skills/css.png",
         "altImage": "Logo CSS"
     },
@@ -18,10 +54,6 @@
     {
         "URLImage": "images/skills/bootstrap.png",
         "altImage": "Logo BOOTSTRAP"
-    },
-    {
-        "URLImage": "images/skills/python.png",
-        "altImage": "Logo PYTHON"
     },
     {
         "URLImage": "images/skills/mysql.png",
@@ -48,16 +80,20 @@
         "altImage": "Logo FIGMA"
     },
     {
-        "URLImage": "images/skills/vue.png",
-        "altImage": "Logo VUEJS"
+        "URLImage": "images/skills/confluence.png",
+        "altImage": "Logo Atlassian Confluence"
     },
     {
-        "URLImage": "images/skills/angular.png",
-        "altImage": "Logo ANGULARJS"
+        "URLImage": "images/skills/bitbucket.png",
+        "altImage": "Logo Atlassian Bitbucket"
     },
     {
-        "URLImage": "images/skills/laravel.png",
-        "altImage": "Logo LARAVEL"
+        "URLImage": "images/skills/squash.png",
+        "altImage": "Logo Atlassian Squash"
+    },
+    {
+        "URLImage": "images/skills/jira.png",
+        "altImage": "Logo Atlassian Jira"
     }
     
 ]
