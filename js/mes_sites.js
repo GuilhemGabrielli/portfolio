@@ -1,6 +1,6 @@
 var mesSites = []
 
-var requestURLSites = 'https://raw.githubusercontent.com/GuilhemGabrielli/portfolio/main/json/mes_sites.json';
+var requestURLSites = 'https://raw.githubusercontent.com/GuilhemGabrielli/portfolio/dev/json/mes_sites.json';
 
 var requestSites = new XMLHttpRequest();
 

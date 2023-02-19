@@ -1,15 +1,15 @@
 [
     {
         "URLImage": "images/skills/vue.png",
-        "altImage": "Logo VUEJS"
+        "altImage": "Logo VueJS"
     },
     {
         "URLImage": "images/skills/angular.png",
-        "altImage": "Logo ANGULARJS"
+        "altImage": "Logo AngularJS"
     },
     {
         "URLImage": "images/skills/laravel.png",
-        "altImage": "Logo LARAVEL"
+        "altImage": "Logo Laravel"
     },
     {
         "URLImage": "images/skills/RF.png",
@@ -24,8 +24,8 @@
         "altImage": "Logo Java"
     },
     {
-        "URLImage": "images/skills/python.png",
-        "altImage": "Logo Python"
+        "URLImage": "images/skills/git.png",
+        "altImage": "Logo Git"
     },
     {
         "URLImage": "images/skills/flutter.png",
@@ -53,11 +53,11 @@
     },
     {
         "URLImage": "images/skills/bootstrap.png",
-        "altImage": "Logo BOOTSTRAP"
+        "altImage": "Logo Bootstrap"
     },
     {
         "URLImage": "images/skills/mysql.png",
-        "altImage": "Logo MYSQL"
+        "altImage": "Logo MySQL"
     },
     {
         "URLImage": "images/skills/cmd.png",
@@ -65,19 +65,19 @@
     },
     {
         "URLImage": "images/skills/powershell.png",
-        "altImage": "Logo POWERSHELL"
+        "altImage": "Logo Powershell"
     },
     {
         "URLImage": "images/skills/vscode.png",
-        "altImage": "Logo VSCODE"
+        "altImage": "Logo VSCode"
     },
     {
         "URLImage": "images/skills/spyder.png",
-        "altImage": "Logo SPYDER"
+        "altImage": "Logo Spyder"
     },
     {
         "URLImage": "images/skills/figma.png",
-        "altImage": "Logo FIGMA"
+        "altImage": "Logo Figma"
     },
     {
         "URLImage": "images/skills/confluence.png",

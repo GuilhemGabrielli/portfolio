@@ -1,7 +1,7 @@
 [
     {
         "titre": "Icone",
-        "description": "Site de l'équipe Icone dans le cadre de nos Workshops pour répondre aux besoins de clients externes",
+        "description": "Site de l'équipe Icone dans le cadre de nos Workshops pour répondre aux besoins de clients externes.",
         "lien": "sites/icone/",
         "image": "images/site_icone.jpg",
         "altImage": "Visuel de l'équipe Icone"
@@ -15,14 +15,14 @@
     },
     {
         "titre": "Digital Consultant",
-        "description": "Site proposé à l'entreprise Digital Consultant dans le cadre des Workshops Tech de Campus Academy",
+        "description": "Site proposé à l'entreprise Digital Consultant dans le cadre des Workshops Tech de Campus Academy.",
         "lien": "https://guilhemgabrielli.github.io/Digital-Consultant/",
         "image": "images/site_digital-consultant.jpg",
         "altImage": "Visuel du site de l'entreprise Digital Consultant"
     },
     {
         "titre": "E-commerce",
-        "description": "Site web de e-commerce réalisé en se basant sur maquette",
+        "description": "Site web de e-commerce réalisé en se basant sur une maquette.",
         "lien": "html/e-commerce.html",
         "image": "images/site_e-commerce.jpg",
         "altImage": "Visuel du site d'e-commerce"
