@@ -23,25 +23,21 @@ body::-webkit-scrollbar-thumb {
 }
 
 
-/*
-    Header Section
+/* Header
+   ========================================================================== 
 */
-#header {
-    height: 70vh;
-}
 
 #h-div {
     display: flex;
-    font-size: 1.7em;
     background-color: var(--white-blue-bg-color);
     color: white;
-    position: sticky;
-    top: 0;
+    flex-direction: column;
+    font-size: 1.2em;
 }
 
 #section-name-porfolio {
     display: flex;
-    width: 66%;
+    width: 100%;
     text-align: center;
 }
 
@@ -55,12 +51,11 @@ body::-webkit-scrollbar-thumb {
 
 #h-div-nav-bar {
     display: flex;
-    width: 33%;
+    width: 100%;
     justify-content: space-around;
 }
 
 .h-div-nav-link {
-    text-decoration: none;
     color: white;
 }
 
@@ -68,21 +63,24 @@ body::-webkit-scrollbar-thumb {
     color: var(--white-body-bg-color);
 }
 
+
+/* Accueil
+   ========================================================================== 
+*/
 #accueil {
     display: flex;
-    height: 100%;
     align-items: center;
     justify-content: center;
 }
 
 #div-name {
     display: flex;
-    width: 50%;
+    /* width: 50%; */
     height: 100%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .titre-partie {
@@ -93,27 +91,31 @@ body::-webkit-scrollbar-thumb {
 
 #accueil-name {
     font-family: Roboto;
-    font-size: 1.5em;
+    font-size: 1.1em;
     padding: 10px
 }
 
 #about-me {
-    width: 45%;
+    width: 70%;
+    text-align: justify;
 }
 
-#div-photo {
-    width: 50%;
+#about-photo {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #photo-profil {
-    height: 50%;
+    height: 50vw;
     padding-left: 10px;
     border-radius: 20px;
 }
 
 
-/*
-    Skills section
+/* Skills
+   ========================================================================== 
 */
 #skills {
     display: flex;
@@ -127,7 +129,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .img-skills {
-    height: 150px;
+    height: 100px;
 }
 
 .skill {
@@ -146,6 +148,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 #scroll-skills {
+    border-radius: 20px;
     overflow: auto;
     white-space: nowrap;
 }
@@ -160,8 +163,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 
-/* 
-    Work Section
+/* Works
+   ========================================================================== 
 */
 #works {
     display: flex;
@@ -172,29 +175,25 @@ body::-webkit-scrollbar-thumb {
 
 .work {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: 1.5em;
     background-color: var(--white-green-bg-color);
     color: white;
     padding: 1%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    width: 90%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     border-radius: 20px;
-    transition: margin-left 2s, margin-right 2s;
-}
-
-.work:hover {
-    margin-left: 20%;
-    margin-right: 20%;
-
+    transition: width 2s;
 }
 
 .a-work {
+    width: 95%;
+    margin-top: 1%;
     display: flex;
-    width: 50%;
+    align-items: center;
 }
 
 .img-work {
@@ -205,7 +204,6 @@ body::-webkit-scrollbar-thumb {
 
 .work-info {
     padding: 2%;
-    width: 50%;
 }
 
 .div-work-name {
@@ -220,6 +218,9 @@ body::-webkit-scrollbar-thumb {
     margin-block-end: 0;
 }
 
+/* About
+   ========================================================================== 
+*/
 #about {
     display: flex;
     text-align: center;
@@ -303,66 +304,146 @@ body::-webkit-scrollbar-thumb {
     padding: 10px;
 }
 
-
-
-
-
-@media screen and (max-width: 1280px) {
+/* Tablette
+   ========================================================================== 
+*/
+@media screen and (min-width: 768px) {
     #h-div {
-        flex-direction: column;
+        flex-direction: row;
+        font-size: 1.3em;
     }
 
     #section-name-porfolio {
-        width: 100%;
-    }
-
-    #h-div-name {
-        width: 50%;
+        width: 66.66%;
     }
 
     #h-div-nav-bar {
-        width: 100%;
+        width: 33.33%;
     }
 
-    #accueil {
-        height: 90%;
+    #accueil-name {
+        font-size: 1.5em;
     }
-    
+
     #about-me {
-        width: 70%;
+        padding-right: 2%;
     }
 
-    .work {
-        margin-left: 15%;
-        margin-right: 15%;
-    }
-
-    .work:hover {
-        margin-left: 10%;
-        margin-right: 10%;
-    }
-
-    #div-mail {
-        margin-left: 15%;
-        margin-right: 15%;
-    }
-
-    #message-mail {
-        width: 96.5%;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    #header {
-        height: 40vh;
-    }
-
-    #accueil {
-        height: 30vh;
+    #div-name {
+        width: 80%;
     }
 
     #photo-profil {
-        height: 50%;
+        width: 30%;
+        height: auto;
     }
 
+    #scroll-skills {
+        border-radius: 0px;
+    }
+
+    .img-skills {
+        height: 125px;
+    }
+
+    .work {
+        flex-direction: row;
+    }
+
+    .a-work {
+        width: 50%;
+        margin-top: 0;
+    }
+
+    .work-info {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        padding: 1% 2% 1% 2%;
+    }
+}
+
+/* Ordinateur portable
+   ========================================================================== 
+*/
+@media screen and (min-width: 1024px) {    
+    .h-div-nav-link {
+        text-decoration: none;
+    }
+
+    #about-photo {
+        justify-content: space-around;
+    }
+
+    #about-me {
+        width: 50%;
+        font-size: 1.2em;
+    }
+
+    .img-skills {
+        height: 150px;
+    }
+
+    .work {
+        width: 80%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+}
+
+/* Ordinateur portable large
+   ========================================================================== 
+*/
+@media screen and (min-width: 1440px) {
+    #h-div {
+        font-size: 1.5em;
+    }
+
+    #about-me {
+        width: 40%;
+    }
+
+    #photo-profil {
+        width: 25%;
+    }
+
+    #cv {
+        font-size: 1.2em;
+    }
+
+    .work {
+        width: 60%;
+        padding: 0.7%;
+    }
+
+    .work:hover {
+        width: 65%;
+    }
+}
+
+/* 4K
+   ========================================================================== 
+*/
+@media screen and (min-width: 2560px) {
+    #about-me {
+        width: 30%;
+    }
+
+    #photo-profil {
+        width: 15%;
+    }
+    
+    .img-skills {
+        height: 200px;
+    }
+
+    .work {
+        width: 50%;
+        padding: 0.5%;
+    }
+
+    .work:hover {
+        width: 55%;
+    
+    }
 }
