@@ -1,28 +1,28 @@
 [
     {
         "titre": "Icone",
-        "description": "Site de l'équipe Icone dans le cadre de notre formation pour répondre aux besoins de clients externes",
+        "description": "Site de l'équipe Icone dans le cadre de nos Workshops pour répondre aux besoins de clients externes.",
         "lien": "sites/icone/",
         "image": "images/site_icone.jpg",
         "altImage": "Visuel de l'équipe Icone"
     }, 
     {
-        "titre": "Expertise",
-        "description": "Site de notre projet Eclerini visant à montrer les différences entre les écoles Américaines et Françaises afin de faire disparaitre les préjugés existant.",
+        "titre": "Eclerini",
+        "description": "Site de notre projet d'expertise visant à montrer les différences entre les écoles Américaines et Françaises afin de faire disparaitre les préjugés existant.",
         "lien": "https://eclerini.github.io/Eclerini/",
         "image": "images/site_eclerini.jpg",
         "altImage": "Visuel du site de notre projet d'expertise"
     },
     {
         "titre": "Digital Consultant",
-        "description": "Site de l'entreprise Digital Consultant",
+        "description": "Site proposé à l'entreprise Digital Consultant dans le cadre des Workshops Tech de Campus Academy.",
         "lien": "https://guilhemgabrielli.github.io/Digital-Consultant/",
         "image": "images/site_digital-consultant.jpg",
         "altImage": "Visuel du site de l'entreprise Digital Consultant"
     },
     {
         "titre": "E-commerce",
-        "description": "Site web de e-commerce",
+        "description": "Site web de e-commerce réalisé en se basant sur une maquette.",
         "lien": "html/e-commerce.html",
         "image": "images/site_e-commerce.jpg",
         "altImage": "Visuel du site d'e-commerce"

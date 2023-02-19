@@ -1,59 +1,99 @@
 [
     {
-        "URLImage": "images/skills/html.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/css.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/js.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/json.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/bootstrap.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/python.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/mysql.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/cmd.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/powershell.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/vscode.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/spyder.png",
-        "altImage": "Logo HTML"
-    },
-    {
-        "URLImage": "images/skills/figma.png",
-        "altImage": "Logo HTML"
-    },
-    {
         "URLImage": "images/skills/vue.png",
-        "altImage": "Logo HTML"
+        "altImage": "Logo VueJS"
     },
     {
         "URLImage": "images/skills/angular.png",
+        "altImage": "Logo AngularJS"
+    },
+    {
+        "URLImage": "images/skills/laravel.png",
+        "altImage": "Logo Laravel"
+    },
+    {
+        "URLImage": "images/skills/RF.png",
+        "altImage": "Logo Robot Framework"
+    },
+    {
+        "URLImage": "images/skills/python.png",
+        "altImage": "Logo Python"
+    },
+    {
+        "URLImage": "images/skills/java.png",
+        "altImage": "Logo Java"
+    },
+    {
+        "URLImage": "images/skills/git.png",
+        "altImage": "Logo Git"
+    },
+    {
+        "URLImage": "images/skills/flutter.png",
+        "altImage": "Logo Flutter"
+    },
+    {
+        "URLImage": "images/skills/swift.png",
+        "altImage": "Logo Swift"
+    },
+    {
+        "URLImage": "images/skills/html.png",
         "altImage": "Logo HTML"
+    },
+    {      
+        "URLImage": "images/skills/css.png",
+        "altImage": "Logo CSS"
+    },
+    {
+        "URLImage": "images/skills/js.png",
+        "altImage": "Logo JS"
+    },
+    {
+        "URLImage": "images/skills/json.png",
+        "altImage": "Logo JSON"
+    },
+    {
+        "URLImage": "images/skills/bootstrap.png",
+        "altImage": "Logo Bootstrap"
+    },
+    {
+        "URLImage": "images/skills/mysql.png",
+        "altImage": "Logo MySQL"
+    },
+    {
+        "URLImage": "images/skills/cmd.png",
+        "altImage": "Logo CMD"
+    },
+    {
+        "URLImage": "images/skills/powershell.png",
+        "altImage": "Logo Powershell"
+    },
+    {
+        "URLImage": "images/skills/vscode.png",
+        "altImage": "Logo VSCode"
+    },
+    {
+        "URLImage": "images/skills/spyder.png",
+        "altImage": "Logo Spyder"
+    },
+    {
+        "URLImage": "images/skills/figma.png",
+        "altImage": "Logo Figma"
+    },
+    {
+        "URLImage": "images/skills/confluence.png",
+        "altImage": "Logo Atlassian Confluence"
+    },
+    {
+        "URLImage": "images/skills/bitbucket.png",
+        "altImage": "Logo Atlassian Bitbucket"
+    },
+    {
+        "URLImage": "images/skills/squash.png",
+        "altImage": "Logo Atlassian Squash"
+    },
+    {
+        "URLImage": "images/skills/jira.png",
+        "altImage": "Logo Atlassian Jira"
     }
     
 ]
